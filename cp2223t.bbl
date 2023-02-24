@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{EK06}
+M.~Erwig and S.~Kollmansberger.
+\newblock Functional pearls: Probabilistic functional programming in {Haskell}.
+\newblock {\em J. Funct. Program.}, 16:21--34, January 2006.
+
+\bibitem{Kn92}
+D.E. Knuth.
+\newblock {\em Literate Programming}.
+\newblock CSLI Lecture Notes Number 27. Stanford University Center for the
+  Study of Language and Information, Stanford, CA, USA, 1992.
+
+\bibitem{Ol18}
+J.N. Oliveira.
+\newblock \href{https://www.di.uminho.pt/~jno/ps/pdbc.pdf}{Program Design by
+  Calculation}, 2022.
+\newblock Textbook in preparation, 310 pages. Informatics Department,
+  University of Minho. Current version: Sept. 2022.
+
+\end{thebibliography}
